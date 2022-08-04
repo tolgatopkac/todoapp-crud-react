@@ -4,6 +4,7 @@ Demo: [Click to see DEMO](https://todoapp-react-firebase.netlify.app/)
 
 ### Tools
 
+- Vite
 - React
-- Tailwind CSS
+- Tailwind CSS (Custom CSS)
 - Firebase
